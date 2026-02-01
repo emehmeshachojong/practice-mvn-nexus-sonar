@@ -1,2 +1,1 @@
-# To create s3 bucket.
-# Glory
+# To code base for s3 bucket.
