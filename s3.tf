@@ -1,1 +1,0 @@
-# To code base for s3 bucket.
